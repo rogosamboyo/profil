@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url(fixxx.jpg);
+    background-size: cover;
+    height: 700px;
+}
+
+.jumbotron .display-4{
+    font-weight: bold;
+}
